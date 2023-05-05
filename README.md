@@ -2,7 +2,9 @@
  
  ## Description
  
- A Bash script that allows users to create appointments at a salon. The script uses SQL to store the appointments and users in a Postgres database
+ A Bash script that allows users to create appointments at a salon. The script uses SQL to store the appointments and users in a Postgres database.
+ 
+ Created for freeCodeCamp's Relational Databases course.
  
  ## Database
  
